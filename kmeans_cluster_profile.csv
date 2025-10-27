@@ -1,0 +1,5 @@
+,Income,Income,Income,TotalSpend,TotalSpend,TotalSpend,Age,Age,Age,Family_Size,Family_Size,Family_Size,Response,Response,Response
+,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median
+Cluster_KMeans,,,,,,,,,,,,,,,
+0,980,71281.82,70367.5,980,1176.28,1127.5,980,58.27,58.0,980,1.54,1.0,980,0.21,0.0
+1,1260,37415.22,37381.5,1260,162.09,80.5,1260,54.58,53.0,1260,2.27,2.0,1260,0.1,0.0
